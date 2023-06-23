@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react"
+  },
+  "files": [
+    "./src/index.tsx"
+  ]
+}
