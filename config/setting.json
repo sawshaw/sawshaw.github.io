@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://sawshaw.github.io",
+    "email": "843506585@qq.com",
+    "enabledProxy": "direct",
+    "platform": "github",
+    "repository": "sawshaw.github.io",
+    "token": "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",
+    "username": "sawshaw"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
